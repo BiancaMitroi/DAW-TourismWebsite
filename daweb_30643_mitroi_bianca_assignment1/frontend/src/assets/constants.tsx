@@ -1,0 +1,193 @@
+import { SectionContent } from "./interfaces";
+
+export const articleContent: SectionContent[] = [
+  {
+    title: "Article 1",
+    content: "This is the first articleThis is the first article",
+    image: "src/assets/images/article1.png",
+    link: "Read more",
+  },
+  {
+    title: "Article 2",
+    content: "This is the second article",
+    image: "src/assets/images/article2.png",
+    link: "Read more",
+  },
+  {
+    title: "Article 3",
+    content: "This is the third article",
+    image: "src/assets/images/article3.png",
+    link: "Read more",
+  },
+  {
+    title: "Article 1",
+    content: "This is the first article",
+    image: "src/assets/images/article1.png",
+    link: "Read more",
+  },
+  {
+    title: "Article 2",
+    content: "This is the second article",
+    image: "src/assets/images/article2.png",
+    link: "Read more",
+  },
+  {
+    title: "Article 3",
+    content: "This is the third article",
+    image: "src/assets/images/article3.png",
+    link: "Read more",
+  },
+];
+
+export const reviewsContent: SectionContent[] = [
+  {
+    title: "Review 1",
+    content: "This is the first review",
+    image: "src/assets/images/article1.png",
+    link: "Read more",
+  },
+  {
+    title: "Review 2",
+    content: "This is the second review",
+    image: "src/assets/images/article2.png",
+    link: "Read more",
+  },
+  {
+    title: "Review 3",
+    content: "This is the third review",
+    image: "src/assets/images/article3.png",
+    link: "Read more",
+  },
+  {
+    title: "Review 1",
+    content: "This is the first review",
+    image: "src/assets/images/article1.png",
+    link: "Read more",
+  },
+  {
+    title: "Review 2",
+    content: "This is the second review",
+    image: "src/assets/images/article2.png",
+    link: "Read more",
+  },
+  {
+    title: "Review 3",
+    content: "This is the third review",
+    image: "src/assets/images/article3.png",
+    link: "Read more",
+  },
+];
+
+export const destinationContent: SectionContent[] = [
+  {
+    title: "Destination 1",
+    content: "This is the first destination",
+    image: "src/assets/images/article1.png",
+    location: "location1",
+    pricePerNight: "100",
+    capacity: 2,
+    link: "Read more",
+  },
+  {
+    title: "Destination 2",
+    content: "This is the second destination",
+    image: "src/assets/images/article2.png",
+    location: "location2",
+    pricePerNight: "200",
+    capacity: 4,
+    link: "Read more",
+  },
+  {
+    title: "Destination 3",
+    content: "This is the third destination",
+    image: "src/assets/images/article3.png",
+    location: "location3",
+    pricePerNight: "300",
+    capacity: 6,
+    link: "Read more",
+  },
+  {
+    title: "Destination 1",
+    content: "This is the first destination",
+    image: "src/assets/images/article1.png",
+    location: "location1",
+    pricePerNight: "100",
+    capacity: 2,
+    link: "Read more",
+  },
+  {
+    title: "Destination 2",
+    content: "This is the second destination",
+    image: "src/assets/images/article2.png",
+    location: "location2",
+    pricePerNight: "200",
+    capacity: 4,
+    link: "Read more",
+  },
+  {
+    title: "Destination 3",
+    content: "This is the third destination",
+    image: "src/assets/images/article3.png",
+    location: "location3",
+    pricePerNight: "300",
+    capacity: 6,
+    link: "Read more",
+  },
+];
+
+export const offerContent: SectionContent[] = [
+  {
+    title: "Offer 1",
+    content: "This is the first offer",
+    image: "src/assets/images/article1.png",
+    location: "location1",
+    pricePerNight: "100",
+    capacity: 2,
+    link: "Read more",
+  },
+  {
+    title: "Offer 2",
+    content: "This is the second offer",
+    image: "src/assets/images/article2.png",
+    location: "location2",
+    pricePerNight: "200",
+    capacity: 4,
+    link: "Read more",
+  },
+  {
+    title: "Offer 3",
+    content: "This is the third offer",
+    image: "src/assets/images/article3.png",
+    location: "location3",
+    pricePerNight: "300",
+    capacity: 6,
+    link: "Read more",
+  },
+  {
+    title: "Offer 1",
+    content: "This is the first offer",
+    image: "src/assets/images/article1.png",
+    location: "location1",
+    pricePerNight: "100",
+    capacity: 2,
+    link: "Read more",
+  },
+  {
+    title: "Offer 2",
+    content: "This is the second offer",
+    image: "src/assets/images/article2.png",
+    location: "location2",
+    pricePerNight: "200",
+    capacity: 4,
+    link: "Read more",
+  },
+  {
+    title: "Offer 3",
+    content: "This is the third offer",
+    image: "src/assets/images/article3.png",
+    location: "location3",
+    pricePerNight: "300",
+    capacity: 6,
+    link: "Read more",
+  },
+];
